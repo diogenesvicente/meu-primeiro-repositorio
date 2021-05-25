@@ -1,2 +1,3 @@
-# meu primeiro repositorio
- aprendizado de git
+# Meu Primeiro Repositório
+ Aprendizado de git
+ Rpositório de treinamento Git
